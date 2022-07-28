@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milkzu
-- 👀 I’m interested in UX and UI
-- 🌱 I’m currently learning at ICT
+- 👀 I’m interested in UX/UI
+- 🌱 I’m currently learning at Web Programming
 
 <!---
 milkzu/milkzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
