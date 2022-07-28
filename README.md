@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @milkzu
+- 👋 Hi, I’m @milkthana
 - 👀 I’m interested in UX/UI
 - 🌱 I’m currently learning at Web Programming
-
-<!---
-milkzu/milkzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
